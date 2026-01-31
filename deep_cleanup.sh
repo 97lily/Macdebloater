@@ -1,7 +1,8 @@
 #!/bin/bash
 
 # Deep Cleanup Script (Interactive & Comprehensive)
-# Created by Antigravity
+# Created by Antigravity 
+# minor fixed by 97lily
 
 # --- Configuration ---
 ARCHIVE_DIR="$HOME/Cleanup_Archives/$(date +%Y-%m-%d_%H-%M-%S)"
