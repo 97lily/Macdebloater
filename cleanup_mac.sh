@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Mac System Cleanup Script
-# Created by Antigravity
+#create by 97lily +ai
 
 echo "==================================================="
 echo "   STARTING MAC SYSTEM CLEANUP"
